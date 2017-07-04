@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>KYDrawerController-ObjC.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-yukJajan.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-yukJajanTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-yukJajanUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>50DB2FE4327D9C5282D2D5274EEEF100</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A87C447650EEA13E6B76C216C1E21A11</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D2A4A69DD75E1C83345776288FF1F8BD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F1AA039080BE98D6AE8E93AE36E1C278</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
